@@ -36,7 +36,8 @@ describe("About Arrays", function() {
     // What are those brackets doing there?
     expect(multiTypeArray[4]["value2"]).to.equal(5);
 
-    expect(multiTypeArray[5][0]).to.equal(60);
+    expect(multiTypeArray[5][0]).to.equal(6);
+
   });
 
   it("should understand array literals", function () {
