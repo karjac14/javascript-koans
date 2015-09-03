@@ -104,6 +104,6 @@ describe("About Functions", function() {
     praiseSinger.givePraise = appendDoubleRules;
 
     expect(praiseSinger.givePraise("Mary")).to.equal(FILL_ME_IN);
-
+//nothing
   });
 });

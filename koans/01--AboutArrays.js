@@ -142,7 +142,7 @@ describe("About Arrays", function() {
     var shiftedValue = array.shift();
 
     expect(shiftedValue).to.deep.equal(3);
-
+//notnhing
     expect(array).to.deep.equal([1,2]);
   });
 });
